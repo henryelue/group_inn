@@ -75,9 +75,6 @@ _________________________  AUTHOR AND ATTRIBUTION  _________________________
 
 
 **Author:** Henry Elue  
-**Program:** HNG 123  
-**Stage:** Stage 4A  
-**E-mail:** henryelue@gmail.com  
-**Slack ID:** Henry Elue  
+
 
 _________________________  END OF DOCUMENT  _________________________
